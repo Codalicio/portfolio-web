@@ -44,6 +44,35 @@ body {
   #about, #projects, #contact {
     background-color: #ffffff;
   }
+
+  #contactForm {
+    padding-top: 2%;
+  }
+
+  #contactForm > textarea {
+    margin: 1%;
+  }
+
+  label, input {
+    margin: 1%;
+  }
+
+  #submit_button {
+    margin-left: 1vw;
+    width: 7rem;
+    padding: 0.5rem;
+    border: 2px solid yellow;
+    border-radius: 10px;
+    background-color: #1e3d58;
+    color: #f4f4f4;
+  }
+
+  #submit_button:hover {
+    background-color: #51a0e5;
+    color: yellow;
+    border: 2.5px solid #1e3d58;
+    border-radius: 10px;
+  }
   
   #projects .project {
     border: 1px solid #ccc;

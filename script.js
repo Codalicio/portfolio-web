@@ -12,5 +12,5 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
   // Form validation
   document.getElementById('contactForm').addEventListener('submit', function (e) {
     e.preventDefault();
-    // Form validation logic
+  });
   
