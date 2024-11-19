@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #1e3d58;
+
+}
+
+header {
+    height: 5rem;
+    border: 10px solid yellow;
+    border-radius: 15px;
+}
+
+.about_title {
+    background-color: #1e3d58;
+    color: white;
+    text-align: center;
+    padding-top: 2rem;
+}
+
+.about_section {
+    width: 95vw;
+}
+
+.about_section p {
+    padding: 2rem;
+    width: 100%;
+    color: #f4f4f4;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+}
