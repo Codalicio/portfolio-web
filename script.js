@@ -1,3 +1,5 @@
+// JAVASCRIPT CODE(script.js) FOR MAIN(index.html) :
+
 // Smooth scrolling for anchor links
 document.querySelectorAll('a[href^="#"]').forEach(anchor => {
     anchor.addEventListener('click', function (e) {

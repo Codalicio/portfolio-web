@@ -1,3 +1,5 @@
+// JAVASCRIPT SOURCE CODE(script.js) FOR 'TASK SIMULATOR' PROJECT :
+
 document.getElementById('addTaskBtn').addEventListener('click', addTask);
 
 function addTask() {
